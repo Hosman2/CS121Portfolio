@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<videoGames>
+    <videoGame id="1">
+        <name>Subnautica</name>
+        <type>Survival</type>
+        <released>2014</released>
+    </videoGame>
+    <videoGame id="2">
+        <name>Minecraft</name>
+        <type>Survival</type>
+        <released>2011</released>
+    </videoGame>
+    <videoGame id="3">
+        <name>Tom Clancy's Rainbow Six Siege</name>
+        <type>FPS Shooter</type>
+        <released>2015</released>
+    </videoGame>
+</videoGames>

@@ -1,0 +1,3 @@
+<Operator> <Ability> <Equipment> <Speed> <Health>
+Iana Clone Grenade 2 2
+Ram RC Flash 2 2
